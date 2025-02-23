@@ -68,7 +68,7 @@ How is this list organised:
 
 ### Meta
 
-[Llama3.2:1b]() -- It's way to dumb to understand my requirement.
+[Llama3.2:1b](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Llama3.2%3A1b.txt) -- It's way to dumb to understand my requirement.
 
 ---
 
