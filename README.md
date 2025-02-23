@@ -38,3 +38,6 @@ Perplexity -- I didn't managed
 
 ### Qwen
 [Qwen2.5-Plus](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Qwen2.5-Plus.md)
+
+### Mistral
+[Le Chat](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Le%20Chat.md)
