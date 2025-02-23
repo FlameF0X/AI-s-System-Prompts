@@ -2,7 +2,7 @@
 
 Here I would try to share evey AI system prompt that I know and I have access to it.
 
-Small info:
+Small info on how to understand this:
 
 ```txt
 ### The Company/Organist namethat made the LLM
