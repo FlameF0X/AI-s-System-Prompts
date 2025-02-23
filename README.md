@@ -12,6 +12,12 @@ How is this list organised:
 [Their LLM](link to the .md)
 
 ---
+
+### The Company/Organisation name that made the LLM
+
+[Their LLM](link to the .md)
+
+---
 ```
 
 ---
