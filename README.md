@@ -4,12 +4,12 @@ Here I would try to share evey AI system prompt that I know and I have access to
 
 ---
 
-### ChatGPT
+### OpenAI
 [ChatGPT-4o](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/ChatGPT.md)
 
 ---
 
-### Grok
+### xAI
 [Grok 3 (beta)](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Grok%203%20(beta).md)
 
 ---
@@ -21,22 +21,22 @@ DeepSeek-R1 -- I didn't managed yet
 
 ---
 
-### Gemini
+### Google
 [Gemini 2.0 Flash](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Gemini%202.0%20Flash.md)
 
 ---
 
-### Claude
+### Anthropic
 Claude 3.5 Sonnet -- I didn't managed yet
 
 ---
 
-### Perplexity 
+### Perplexity
 Perplexity -- I didn't managed yet 
 
 ---
 
-### Qwen
+### Alibaba Cloud 
 [Qwen2.5-Plus](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Qwen2.5-Plus.md)
 
 ---
@@ -46,7 +46,7 @@ Perplexity -- I didn't managed yet
 
 ---
 
-### LLama
+### Meta
 
 Llama -- I didn't managed yet
 
@@ -56,5 +56,5 @@ Llama -- I didn't managed yet
 
 Ollama -- Not yet
 
-### Copilot
+### 
 [Copilot](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Copilot.md)
