@@ -5,7 +5,7 @@ Here I would try to share evey AI system prompt that I know and I have access to
 ---
 
 ### ChatGPT
-[ChatGPT 4o](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/ChatGPT.md)
+[ChatGPT-4o](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/ChatGPT.md)
 
 ---
 
