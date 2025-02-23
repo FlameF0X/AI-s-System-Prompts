@@ -55,3 +55,6 @@ Llama -- I didn't managed yet
 ### Ollama
 
 Ollama -- Not yet
+
+### Copilot
+[Copilot]()
