@@ -85,4 +85,4 @@ How is this list organised:
 ---
 
 ### AquiGPT
-[AquiGPT Free]()
+[AquiGPT Free Deepseek-V3](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/AquiGPT%20Free.md)
