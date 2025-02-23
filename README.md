@@ -2,6 +2,16 @@
 
 Here I would try to share evey AI system prompt that I know and I have access to it.
 
+Small info:
+
+```txt
+### The Company/Organist namethat made the LLM
+
+---
+
+[Their LLM](link to the .md)
+```
+
 ---
 
 ### OpenAI
