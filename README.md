@@ -33,3 +33,8 @@ Claude 3.5 Sonnet -- I didn't managed
 
 ### Perplexity 
 Perplexity -- I didn't managed
+
+---
+
+### Qwen
+[Qwen2.5-Plus]()
