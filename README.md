@@ -57,4 +57,4 @@ Llama -- I didn't managed yet
 Ollama -- Not yet
 
 ### Copilot
-[Copilot]()
+[Copilot](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Copilot.md)
