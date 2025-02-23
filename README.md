@@ -5,11 +5,13 @@ Here I would try to share evey AI system prompt that I know and I have access to
 How is this list organised:
 
 ```txt
-### The Company/Organisation name that made the LLM
-
 ---
 
+### The Company/Organisation name that made the LLM
+
 [Their LLM](link to the .md)
+
+---
 ```
 
 ---
@@ -27,7 +29,7 @@ How is this list organised:
 ### DeepSeek
 [DeepSeek-V3](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/DeepSeek-V3)
 
-DeepSeek-R1 -- I didn't managed yet 
+[DeepSeek-R1]() -- I didn't managed yet 
 
 ---
 
@@ -37,12 +39,12 @@ DeepSeek-R1 -- I didn't managed yet
 ---
 
 ### Anthropic
-Claude 3.5 Sonnet -- I didn't managed yet
+[Claude 3.5 Sonnet]() -- I didn't managed yet
 
 ---
 
 ### Perplexity
-Perplexity -- I didn't managed yet 
+[Perplexity]() -- I didn't managed yet 
 
 ---
 
@@ -58,15 +60,25 @@ Perplexity -- I didn't managed yet
 
 ### Meta
 
-Llama -- I didn't managed yet
+[Llama]() -- I didn't managed yet
 
 ---
 
 ### Ollama
 
-Ollama -- Not yet
+[Ollama]() -- Not yet
 
 ---
 
 ### GitHub
 [Copilot](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Copilot.md)
+
+---
+
+### Microsoft
+[Phi-4]() -- Not yet
+
+[Phi-3]() -- Not yet
+
+[Phi-1]() -- Not yet
+
