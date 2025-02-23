@@ -82,3 +82,7 @@ How is this list organised:
 
 [Phi-1]() -- Not yet
 
+---
+
+### AquiGPT
+[AquiGPT Free]()
