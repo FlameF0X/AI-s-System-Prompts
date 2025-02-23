@@ -42,7 +42,7 @@ How is this list organised:
 ### Google
 [Gemini 2.0 Flash](https://github.com/FlameF0X/AI-s-System-Prompts/blob/main/Gemini%202.0%20Flash.md)
 
-[Gemini 2.0 Thinking Experimental]() -- It's way to dump to try even harder
+[Gemini 2.0 Thinking Experimental]() -- It's way to dumb to try even harder
 
 ---
 
@@ -68,13 +68,7 @@ How is this list organised:
 
 ### Meta
 
-[Llama]() -- I didn't managed yet
-
----
-
-### Ollama
-
-[Ollama]() -- Not yet
+[Llama3.2:1b]() -- It's way to dumb to understand my requirement.
 
 ---
 
